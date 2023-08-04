@@ -1,3 +1,2 @@
 # RockStar
-
-simple frontend project to practice JavaScript EventListeners and audio object
+## Simple Frontend Project To Practice JavaScript EventListeners And Audio Object!!
